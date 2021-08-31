@@ -9,7 +9,7 @@ void main()
        printf("\n\nPrint a string in reverse order:\n ");
        printf("-------------------------------------\n");
 
-   printf("Input a string to reverse : ");
+   printf("Input a string to reverse  ");
    scanf("%s", str1);
    l = strlen(str1);
 
